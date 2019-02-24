@@ -1,6 +1,6 @@
 # code the #greeting method here!
 
-name = input.s
+name = input.strip
 def greeting(name)
   
 end
